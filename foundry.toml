@@ -1,0 +1,10 @@
+[profile.default]
+src = "src"
+out = "out"
+solc_version = '0.8.27'
+via_ir = false
+evm_version = "cancun"
+bytecode_hash = "none"
+cbor_metadata = false
+optimizer = true
+optimizer_runs = 20000

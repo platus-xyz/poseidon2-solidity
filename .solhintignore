@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+.npm
+
+logs
+*.log
+.pnpm-debug.log*
+
+.gitignore
+slither.sh
+.solhintignore
